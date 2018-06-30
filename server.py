@@ -1,5 +1,4 @@
 def initializeFlights():
-
     # read flights.txt file
     path = './flights.txt'
     flights = open(path, 'r').read().splitlines()
