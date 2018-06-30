@@ -47,5 +47,3 @@ def search_all_destination(dest, flights):
         if dest in k:
             matched_keys.append(k)
     return matched_keys
-
-flights = initializeFlights()
