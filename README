@@ -1,0 +1,8 @@
+* VIDEO LINK: https://youtu.be/mdRxk98NFJw
+
+* How to run program
+- change directory to travelAgencey directory
+- start the server with command: python server.py
+- start as many clients as you wish with command: python client.py
+- run available options from client, LIST, SEARCHD, SEARCHALL, BUY_TICKET, etc..
+- quit clients with command: QUIT
